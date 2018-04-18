@@ -11,7 +11,7 @@
 #define gren "\x1b[32m" 
 
 
-#define arquivo "dados.txt"
+#define arquivo "banco.txt"
 
 int main()
 {
